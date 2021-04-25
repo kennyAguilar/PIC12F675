@@ -1,0 +1,64 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 12F675 ]
+[d frameptr 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"5 C:\Users\Kenny\Documents\GitHub\PIC12F675\tmr0temporizador.X\config.c
+[v _pinConfig pinConfig `(v  1 e 1 0 ]
+"12 C:\Users\Kenny\Documents\GitHub\PIC12F675\tmr0temporizador.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"6 C:\Users\Kenny\Documents\GitHub\PIC12F675\tmr0temporizador.X\tmr0.c
+[v _tmr0Config tmr0Config `(v  1 e 1 0 ]
+"10
+[v _tmr0Init tmr0Init `(v  1 e 1 0 ]
+"15
+[v _tmr0delay tmr0delay `(v  1 e 1 0 ]
+"73 C:/Users/Kenny/.mchp_packs/Microchip/PIC10-12Fxxx_DFP/1.4.56/xc8\pic\include\proc\pic12f675.h
+[v _TMR0 TMR0 `VEuc  1 e 1 @1 ]
+"219
+[v _GPIO GPIO `VEuc  1 e 1 @5 ]
+"327
+[v _INTCON INTCON `VEuc  1 e 1 @11 ]
+"565
+[v _CMCON CMCON `VEuc  1 e 1 @25 ]
+"728
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @129 ]
+"798
+[v _TRISIO TRISIO `VEuc  1 e 1 @133 ]
+"1405
+[v _ANSEL ANSEL `VEuc  1 e 1 @159 ]
+"12 C:\Users\Kenny\Documents\GitHub\PIC12F675\tmr0temporizador.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"27
+} 0
+"15 C:\Users\Kenny\Documents\GitHub\PIC12F675\tmr0temporizador.X\tmr0.c
+[v _tmr0delay tmr0delay `(v  1 e 1 0 ]
+{
+"17
+[v tmr0delay@i i `i  1 a 2 0 ]
+"25
+} 0
+"10
+[v _tmr0Init tmr0Init `(v  1 e 1 0 ]
+{
+"14
+} 0
+"6
+[v _tmr0Config tmr0Config `(v  1 e 1 0 ]
+{
+"9
+} 0
+"5 C:\Users\Kenny\Documents\GitHub\PIC12F675\tmr0temporizador.X\config.c
+[v _pinConfig pinConfig `(v  1 e 1 0 ]
+{
+"13
+} 0
